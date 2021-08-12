@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Shubham from India. I am a Computer Science graduate from top institute of India working in Web development IOS/Android App (Hybrid apps) development for more than 5+ years.I have developed more than 100+ websites.
+I am a software programmer.man_technologist My name is Shubham. I am a Computer Science graduate from top institute of India working in Web development and IOS/Android App (Hybrid apps) development for more than 5+ years.I have developed more than 100+ websites.
 <div align = 'center'>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shubham504&langs_count=8" alt = "Top Langs">
 </div>
